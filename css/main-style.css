@@ -1,8 +1,17 @@
 /* Created by: Evgeny Vovk
 * Created on: Fab 2022
-* This CSS file defines the style for index.html ICS2O-Unit1-07-HTML
+* This CSS file defines the style for index.html ICS2O-Assignment1-HTML
 */
 
-.links {
-  font-size: 200%;
+body {
+  background-color: cyan;
+}
+
+p {
+  font-size: 130%;
+  margin-top: 3em;
+  background-color: rgb(0 140 0);
+  color: black;
+  margin-right: 70em;
+  border: 1px solid white
 }
