@@ -23,3 +23,15 @@ h1 {
   font-size: 300%;
   text-decoration: underline;
 }
+
+h2 {
+  font-size: 150%;
+  background-color: green;
+  margin-left: 14em;
+  margin-right: 14em;
+  border: 2px solid black;
+}
+
+.main-doge {
+  text-align: left;
+}
